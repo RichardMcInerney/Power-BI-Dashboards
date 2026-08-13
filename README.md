@@ -1,6 +1,6 @@
-# 📊 Power BI Dashboards
+#  Power BI Dashboards
 
-## 🚀 Overview
+##  Overview
 
 This repository contains a collection of **Power BI dashboards** built using various datasets to demonstrate core skills in:
 
@@ -13,9 +13,9 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 
 ---
 
-## 🎯 Dashboard Collection
+##  Dashboard Collection
 
-### 👥 HR Attrition Analysis
+###  HR Attrition Analysis
 - Attrition trends by department, role, and age  
 - Impact of overtime, job satisfaction, and tenure  
 - Salary and retention insights  
@@ -25,7 +25,7 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 
 ---
 
-### 🛒 Sales Performance Dashboard
+###  Sales Performance Dashboard
 - Sales trends over time  
 - Regional and category performance  
 - Product-level insights  
@@ -37,7 +37,7 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 
 ---
 
-## 🧩 Skills Demonstrated
+##  Skills Demonstrated
 
 - Power BI dashboard design  
 - Data modeling & relationships  
@@ -47,7 +47,7 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 
 ---
 
-## 📁 Repository Purpose
+##  Repository Purpose
 
 This repository serves as:
 - A **portfolio of standalone dashboards**  
@@ -56,13 +56,13 @@ This repository serves as:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Richard McInerney**  
 Data Analytics | Power BI | Machine Learning  
 
 ---
 
-## ⭐ Notes
+##  Notes
 
-👉 Full end-to-end projects (ML + BI + reports) are available in separate repositories.
+ Full end-to-end projects (ML + BI + reports) are available in separate repositories.
