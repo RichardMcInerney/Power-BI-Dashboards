@@ -20,8 +20,8 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 - Impact of overtime, job satisfaction, and tenure  
 - Salary and retention insights  
 
-![HR Attrition Overview](./HR-Attrition%20Analysis.png)
-![HR Attrition Drivers](./HR-Attrition%20Drivers.png)
+<img width="1157" height="645" alt="Attrition_Analysis_v2" src="https://github.com/user-attachments/assets/70632c30-68af-49d6-abc2-51b2d48fdea9" />
+<img width="1165" height="660" alt="Attrition_Drivers_v2" src="https://github.com/user-attachments/assets/f5034dc9-8293-41c0-a13d-f3c03b38f347" />
 
 ---
 
