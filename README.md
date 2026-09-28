@@ -31,9 +31,11 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 - Product-level insights  
 - Shipping and operational metrics  
 
-![Sales Dashboard 1](./Sales%20analysis%201.png)
-![Sales Dashboard 2](./Sales%20Analysis%202.png)
-![Sales Dashboard 3](./Sales%20Analysis%203.png)
+<img width="1300" height="737" alt="Overview_v2" src="https://github.com/user-attachments/assets/33ba75ae-efd0-45c3-acfe-69e6eec4d52f" />
+<img width="1305" height="732" alt="Sales_Analysis_v2" src="https://github.com/user-attachments/assets/0643e681-dc87-43fb-81aa-cc92778e52bc" />
+<img width="1297" height="732" alt="Performance_v2" src="https://github.com/user-attachments/assets/97caff64-a505-4340-a2cb-405cc88f97b8" />
+
+
 
 ---
 
