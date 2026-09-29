@@ -2,14 +2,14 @@
 
 ##  Overview
 
-This repository contains a collection of **Power BI dashboards** built using various datasets to demonstrate core skills in:
+This repository contains a collection of Power BI dashboards built using various datasets to demonstrate core skills in:
 
 - Data modeling  
 - DAX measures  
 - Interactive dashboard design  
 - Business-focused data visualisation  
 
-These are **standalone dashboards**, separate from full end-to-end ML + BI projects.
+These are standalone dashboards, separate from full end-to-end ML + BI projects.
 
 ---
 
@@ -52,8 +52,8 @@ These are **standalone dashboards**, separate from full end-to-end ML + BI proje
 ##  Repository Purpose
 
 This repository serves as:
-- A **portfolio of standalone dashboards**  
-- A demonstration of **core Power BI capabilities**  
+- A portfolio of standalone dashboards  
+- A demonstration of core Power BI capabilities
 - A supplement to more advanced end-to-end analytics projects  
 
 ---
